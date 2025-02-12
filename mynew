@@ -1,5 +1,6 @@
 class mynew{
 public static void main(String args[]){
-System.out.println("i ma the best ");
+System.out.println("i am the best ");
+System.out.println("DSA to get 50 LPA");
 }
 }
